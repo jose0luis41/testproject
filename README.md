@@ -9,22 +9,20 @@
 #Desarrollo Parcial
 
 Se instala el Jenkins con sus dependencias.
-```
-Imagen 
 
-```
+![alt text](https://github.com/jose0luis41/testproject/imagenes/parcialJenkins1.PNG)
+
 Iniciamos el servicio de Jenkins y habilitamos su puerto
-```
-Imagen 
 
-```
+![alt text](https://github.com/jose0luis41/testproject/imagenes/parcialJenkins1.PNG)
+
 
 creamos el usuario y el ambiente virtual para Jenkins
-```
-Imagen
-```
+
+![alt text](https://github.com/jose0luis41/testproject/imagenes/parcialJenkins1.PNG)
+
 Se instala las herramientas para el parcial y exportar el archivo de requerimientos.
-```sh
-Imagen
-```
+
+![alt text](https://github.com/jose0luis41/testproject/imagenes/parcialJenkins1.PNG)
+
 ------
