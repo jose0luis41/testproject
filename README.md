@@ -61,8 +61,29 @@ pip freeze > requirements.txt
 ```
 Finalizado. Ahora se abre el Jenkins por medio de la URL http://192.168.1.64:8080/, esta es respecto a la dirección de la máquina utilizada.
 
-![alt link]()
+![alt link](https://github.com/jose0luis41/testproject/blob/master/images/CapturaDos.PNG)
 
+Se procede a ingresar al Jenkins. Esto se debe a que ya se había ingresado. Por lo tanto se procede a pedir la llave desde la máquina virtual.
+
+```sh
+nano /var/lib/jenkins/secret.key
+```
+
+![alt link](https://github.com/jose0luis41/testproject/blob/master/images/CapturaDos.PNG)
+
+Ahora se procede a configurar el Jenkins, enlazandolo con el repositorio de GitHub, el cual ya contiene la configuración de los archivos de prueba.
+
+![alt link](https://github.com/jose0luis41/testproject/blob/master/images/CapturaCuatro.PNG)
+
+![alt link](https://github.com/jose0luis41/testproject/blob/master/images/CapturaCinco.PNG)
+
+![alt link](https://github.com/jose0luis41/testproject/blob/master/images/CapturaSeis.PNG)
+
+![alt link](https://github.com/jose0luis41/testproject/blob/master/images/CapturaSiete.PNG)
+
+![alt link](https://github.com/jose0luis41/testproject/blob/master/images/CapturaOctavo.PNG)
+
+![alt link](https://github.com/jose0luis41/testproject/blob/master/images/CapturaNueve.PNG)
 
 
 
