@@ -10,11 +10,11 @@ Este parcial consta de la realización de pruebas a través de la herramienta Je
 ##Configuración Jenkins
 Primero se configura la fecha del servidor de Jenkins.
 
-´´´sh
+```sh
 yum install ntp ntpdate ntp-doc
 chkconfig ntpd on
 ntpdate pool.ntp.org
 /etc/init.d/ntpd start
-´´´
+```
 
 
