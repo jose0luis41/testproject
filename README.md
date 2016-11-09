@@ -1,26 +1,7 @@
-<<<<<<< HEAD
-# Segundo Parcial Jenkins
-
-<b>Autor:</b> Jose Luis Sacanamboy Rozo<br>
-<b>Código:</b> 13103010<br>
-<b>Repositorio:</b> https://github.com/jose0luis41/testproject
-
------------
-
-#Desarrollo Parcial
-
-Se instala el Jenkins con sus dependencias.
-
-![alt text](https://github.com/jose0luis41/testproject/imagenes/parcialJenkins1.PNG)
-
-Iniciamos el servicio de Jenkins y habilitamos su puerto
-
-![alt text](https://github.com/jose0luis41/testproject/imagenes/parcialJenkins1.PNG)
-
-=======
 # Segundo Parcial Operativos
 ### Nombre: Jose Luis Sacanamboy
 ### Código: 13103010
+### Repositorio: https://github.com/jose0luis41/testproject
 
 ---------
 
@@ -41,15 +22,6 @@ Una vez configurada la hora del servidor proseguimos a instalar el Jenkins.
 
 creamos el usuario y el ambiente virtual para Jenkins
 
-<<<<<<< HEAD
-![alt text](https://github.com/jose0luis41/testproject/imagenes/parcialJenkins1.PNG)
-
-Se instala las herramientas para el parcial y exportar el archivo de requerimientos.
-
-![alt text](https://github.com/jose0luis41/testproject/imagenes/parcialJenkins1.PNG)
-
-------
-=======
 Se ha instalado el Jenkins correctamente. Proseguimos activar el servicio web de Jenkins y el puerto 8080 por el cual el Jenkins sube.
 
 ```sh
@@ -257,5 +229,3 @@ def test_Cinco(client):
  Se ingresa al archivo de cobertura.
  
  ![alt link](https://github.com/jose0luis41/testproject/blob/master/images/CapturaDoce.jpg)
- 
->>>>>>> 171ab3e5cdf90c68e327e7af76a126edf2d1b973
