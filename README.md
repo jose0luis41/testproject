@@ -81,7 +81,7 @@ Ahora se procede a configurar el Jenkins, enlazandolo con el repositorio de GitH
 
 ![alt link](https://github.com/jose0luis41/testproject/blob/master/images/CapturaSiete.PNG)
 
-![alt link](https://github.com/jose0luis41/testproject/blob/master/images/CapturaOnce.PNG)
+![alt link](https://github.com/jose0luis41/testproject/blob/master/images/CapturaOnce.png)
 
 ![alt link](https://github.com/jose0luis41/testproject/blob/master/images/CapturaOctavo.PNG)
 
