@@ -231,5 +231,5 @@ def test_Cinco(client):
  
  Se pasaron las pruebas.
  
- ![alt link](https://github.com/jose0luis41/testproject/blob/master/images/CapturaTrece.jpg)
+ ![alt link](https://github.com/jose0luis41/testproject/blob/master/images/CapturaTrece.PNG)
  
