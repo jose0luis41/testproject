@@ -231,4 +231,7 @@ def test_Cinco(client):
  
  Ahora se prueban los servicios utilizando Jenkins.
  
+ Se ingresa al archivo de cobertura.
+ 
+ ![alt link](https://github.com/jose0luis41/testproject/blob/master/images/CapturaDoce.jpg)
  
