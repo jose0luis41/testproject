@@ -228,3 +228,8 @@ def test_Cinco(client):
  Se ingresa al archivo de cobertura.
  
  ![alt link](https://github.com/jose0luis41/testproject/blob/master/images/CapturaDoce.jpg)
+ 
+ Se pasaron las pruebas.
+ 
+ ![alt link](https://github.com/jose0luis41/testproject/blob/master/images/CapturaTrece.jpg)
+ 
