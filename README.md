@@ -18,7 +18,6 @@ ntpdate pool.ntp.org
 /etc/init.d/ntpd start
 ```
 Una vez configurada la hora del servidor proseguimos a instalar el Jenkins.
->>>>>>> 171ab3e5cdf90c68e327e7af76a126edf2d1b973
 
 creamos el usuario y el ambiente virtual para Jenkins
 
